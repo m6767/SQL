@@ -1,0 +1,1 @@
+CREATE TABLE table2 SELECT * FROM table1;
